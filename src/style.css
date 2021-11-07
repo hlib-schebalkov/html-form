@@ -1,1 +1,13 @@
-/* styles go here */
+.box {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-field {
+  display: block;
+}
